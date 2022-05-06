@@ -18,10 +18,10 @@
 </h1>
 </div>
   
-  <div align="center">
+<!--   <div align="center">
   <img src="https://media.giphy.com/media/fwbZnTftCXVocKzfxR/giphy.gif" width="500" height="300"/>
 </div>
-
+ -->
 ---
 ### :man_technologist: About Me :
 
