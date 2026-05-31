@@ -42,7 +42,7 @@ AI-powered learning platform built with Nuxt, TypeScript, OpenAI, Gemini, Prisma
 
 ## Connect With Me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Abdelrahman%20Mohamed-blue?style=for-the-badge&logo=linkedin)]([YOUR_LINKEDIN_URL](https://www.linkedin.com/in/abdelrahman-saad-se/))
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Abdelrahman%20Mohamed-blue?style=for-the-badge&logo=linkedin)]((https://www.linkedin.com/in/abdelrahman-saad-se/))
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-Visit-success?style=for-the-badge)](YOUR_PORTFOLIO_URL)
 
